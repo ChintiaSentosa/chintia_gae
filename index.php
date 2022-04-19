@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+ech "Halo, Nama Saya Chintia Sentosa, NIM saya 51019004, Jurusan Sistem Informasi";
